@@ -1,7 +1,7 @@
 name: korean_keyboard
-description: A new Flutter package project.
+description: non install Korean keyboard for Flutter
 version: 0.0.1
-homepage:
+homepage:https://github.com/pitterpark/Flutter_Korean_Keyboard
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
