@@ -1,4 +1,5 @@
-I was made for applications associated with Korean. The uses do not need to install Korean keyboard when using application.
+Users don't need to activate Korean keyboard on phone setting.
+
 
 ## Get Started
 
